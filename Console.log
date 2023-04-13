@@ -1,3 +1,3 @@
 console.log('Otniel');            // String = Texto
-console.log("'Otniel'");          // String = Texto
-console.log(`'Otniel'`);          // String = Texto
+console.log("'Otniel'");          // Number = Número
+console.log(`'Otniel'`);          // Number = Número
