@@ -1,0 +1,3 @@
+console.log('Otniel');            // String = Texto
+console.log("'Otniel'");          // String = Texto
+console.log(`'Otniel'`);          // String = Texto
